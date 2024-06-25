@@ -1,4 +1,4 @@
-# Aura - Custom Version Control System
+# Aura🏄🏽‍♂️ - Custom Version Control System
 
 ## Overview
 Aura is a custom version control system built with Node.js. It implements essential version control functionalities such as initializing repositories, adding files, committing changes, viewing commit logs, and displaying differences between file versions. Aura provides a user-friendly command-line interface (CLI) for managing and tracking file changes within a repository.
