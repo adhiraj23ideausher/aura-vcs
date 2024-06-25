@@ -14,6 +14,6 @@ Aura is a custom version control system built with Node.js. It implements essent
 To install Aura, you need to have Node.js installed. You can then clone the repository and install the necessary dependencies.
 
 ```bash
-git clone https://github.com/yourusername/aura.git
+git clone https://github.com/adhirajkar3103/aura.git
 cd aura
 npm install
